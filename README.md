@@ -3,7 +3,7 @@
 
 🎓 I am Harrison Phan, you can call me Harris, I'm a **Full-Stack Web Developer** (specializing in **React Applications**). I work as a backend software engineer at a large-scale company named Zalo, best known as a message application. I am also pursuing my Bachelors in **Computer Science & Engineering** and graduate in mid-2019.
 
-👨‍💻 I enjoy contributing to **Open Source Projects** and am really enthusiastic about learning new technology. In 2020, I learned Algorithms, Data structures thing, some technology such as Spring and ReactJS, Hibernate. I also learn more about system design, design patterns to create more reusable software. I have experienced working with front-end things such as **HTML, CSS, Bootstrap Jquery**. 
+👨‍💻 I enjoy contributing to **Open Source Projects** and am really enthusiastic about learning new technology. In 2020, I learned Algorithms, Data structures thing, and technology such as **Spring and ReactJS, Hibernate**. I also learn more about system design, design patterns to create more reusable software. I have experienced working with front-end things such as **HTML, CSS, Bootstrap Jquery**. 
 
 🎸 Outside the world of tech, I love pushing myself to develop new skills ranging from playing **piano**, solving puzzle games such as Sudoku, and playing chess.
 
@@ -14,10 +14,10 @@
 ### Languages
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Front-End Development
+### 
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -29,9 +29,6 @@
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-
-### Back-End Development
-<li> Kyoto Carbinet
 
 ### Database
 
