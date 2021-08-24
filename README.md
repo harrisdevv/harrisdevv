@@ -46,7 +46,7 @@
 ## 📈 Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=harrisdev&show_icons=true&hide_border=true" alt="Tapajyoti Bose's GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=harrisdevv&show_icons=true&hide_border=true" alt="Harrison's GitHub Stats">
 </div>
 
 <div align="center">
