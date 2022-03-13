@@ -1,7 +1,7 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 ## 🚀 About Me
 
-🎓 I am Harrison Phan, you can call me Harris, I'm a **Full-Stack Web Developer** (specializing in **Java Applications**). I have 3 years of experience work as a backend software engineer. I am also pursuing my Bachelors in **Computer Science & Engineering** and graduate in mid-2019.
+🎓 I am Harrison Phan, I'm a **Full-Stack Software Engineer** (specializing in **Java Applications**). I have 3 years of experience work as a backend software engineer. I am also pursuing my Bachelors in **Computer Science & Engineering** and graduate in mid-2019.
 
 👨‍💻 I am enthusiastic about learning new technology. In 2020, I learned Algorithms, Data structures thing, and technology such as **Spring, Hibernate**. I also learn more about system design, design patterns to create more reusable software. I have experience working with front-end things such as **HTML, CSS, Bootstrap jQuery**. 
 
