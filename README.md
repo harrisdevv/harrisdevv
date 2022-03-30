@@ -3,9 +3,7 @@
 
 🎓 I am Harrison Phan, I'm a **Full-Stack Software Engineer** (specializing in **Java Applications**). I have 3 years of experience work as a backend software engineer. I am also pursuing my Bachelors in **Computer Science & Engineering** and graduate in mid-2019.
 
-👨‍💻 I am enthusiastic about learning new technology. In 2020, I learned Algorithms, Data structures thing, and technology such as **Spring, Hibernate**. I also learn more about system design, design patterns to create more reusable software. I have experience working with front-end things such as **HTML, CSS, Bootstrap jQuery**. 
-
-🎸 Outside the world of tech, I love pushing myself to develop new skills ranging from playing **piano**, solving puzzle games such as Sudoku, and playing chess.
+👨‍💻 I am enthusiastic about learning new technology. In 2020, I learned more about Algorithms & DS , and Java technology such as **Spring, Hibernate**. I also learn more about system design, design patterns to create more reusable software.
 
 📚 I love reading books on **personal development** & **software development**. My favorites ones are **The Phoenix Project** by *Gene Kim* in the genre of personal development and **Clean code** by *Bob Martin* in the genre of software development. Reading books makes me feel awesome, relaxing, and helping me update my knowledge.
 
