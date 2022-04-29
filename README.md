@@ -28,7 +28,7 @@
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 📝 Blogs
-<a href="https://harrisdevv.github.io/" alt="Tech Blog"> My Blog </a>
+<a href="https://harrisdevv.github.io/" alt="Tech Blog"> 📝 My Blog </a>
 
 ## 📘 Reading
 
