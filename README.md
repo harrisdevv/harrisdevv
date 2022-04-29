@@ -25,21 +25,24 @@
 ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-
-### Database
-
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🖥️ Workspace Setup
+## 📝 Blogs
+![My simple blog](https://harrisdevv.github.io/)
 
-![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+## 📘 Reading
 
-<!-- ## 📝 Blogs -->
+<a href="https://app.daily.dev/HarrisonDev"><img src="https://api.daily.dev/devcards/957be0cdc25a477c82e74d4faa9bdd93.png?r=yxz" width="400" alt="Harrison Phan's Dev Card"/></a>
+
+## 💻 Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrisdevv&layout=compact)](https://github.com/harrisdevv/github-readme-stats)
+[![Commits](https://github-readme-stats.vercel.app/api?username=harrisdevv)](https://github.com/harrisdevv/github-readme-stats)
+
 
 ## 📫 How to reach me
 
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:harrisonphan5@gmail.com)
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HarrisonPhan9)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/harrison-phan-b348a4220/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/harrisdevv)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:harrisonphan5@gmail.com)
