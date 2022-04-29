@@ -28,11 +28,11 @@
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 📝 Blogs
-![My simple blog](https://harrisdevv.github.io/)
+<a href="https://harrisdevv.github.io/" alt="Tech Blog"> My Blog </a>
 
 ## 📘 Reading
 
-<a href="https://app.daily.dev/HarrisonDev"><img src="https://api.daily.dev/devcards/957be0cdc25a477c82e74d4faa9bdd93.png?r=yxz" width="400" alt="Harrison Phan's Dev Card"/></a>
+<a href="https://app.daily.dev/HarrisonDev"><img src="https://api.daily.dev/devcards/957be0cdc25a477c82e74d4faa9bdd93.png?r=yxz" width="300" alt="Harrison Phan's Dev Card"/></a>
 
 ## 💻 Top Languages
 
