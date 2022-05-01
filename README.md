@@ -32,7 +32,8 @@
 
 ## 📘 Reading
 
-<a href="https://app.daily.dev/HarrisonDev"><img src="https://api.daily.dev/devcards/957be0cdc25a477c82e74d4faa9bdd93.png?r=yxz" width="300" alt="Harrison Phan's Dev Card"/></a>
+<a href="https://app.daily.dev/HarrisonDev"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="250" alt="Harrison Phan's Dev Card"/></a>
+
 
 ## 💻 Top Languages
 
