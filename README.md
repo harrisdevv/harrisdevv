@@ -1,11 +1,12 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
+
 ## 🚀 About Me
 
-🎓 I am Harrison Phan, I'm a **Full-Stack Software Engineer** (specializing in **Java**). I have 3 years of experience working as a backend software engineer. I am also pursuing my Bachelors in **Computer Science & Engineering** and graduate in mid-2019.
+👨‍💻 I am Hien Phan (Henry), a dedicated **Full-Stack Software Engineer** specializing in **Java** and **JavaScript** with 4 years experience. I have a passion for building and developing software from A to Z, with a particular interest in creating SaaS applications.
 
-👨‍💻 I am enthusiastic about learning new technology.
+💡 I am enthusiastic about learning new technologies and enjoy connecting with the coding community. For me, building software is a way to modernize my life, providing a productive means to master complex challenges for humans and helping people connect quickly to excel in any field.
 
-📚 I love reading books on **personal development** & **software development**. My favorite ones are **The Phoenix Project** by *Gene Kim* in the genre of personal development and **Clean code** by *Bob Martin* in the genre of software development. Reading books makes me feel awesome, and relaxing, and helps me update my knowledge.
+🤝 I value friendly and kind interactions and am always open to making new connections. Don't hesitate to reach out and connect with me!
 
 ## 🛠️ Skills
 
@@ -13,9 +14,10 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Tech Stack
+### Java Tech Stack
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
@@ -27,19 +29,29 @@
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+### Web App Stack
+![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![shadcn](https://img.shields.io/badge/shadcn-000000?style=for-the-badge&logo=shadcn&logoColor=white)
+![daisyUI](https://img.shields.io/badge/daisyUI-5A67D8?style=for-the-badge&logo=daisyui&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![React Toolkit](https://img.shields.io/badge/React_Toolkit-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
 ## 📝 Blogs
-<a href="https://harrisdevv.github.io/" alt="Tech Blog"> 📝 My Blog </a>
-
-## 📘 Reading
-
-<a href="https://app.daily.dev/HarrisonDev"><img src="https://github.com/harrisdevv/harrisdevv/blob/main/devcard.svg" width="250" alt="Harrison Phan's Dev Card"/></a>
-
-
-## 💻 Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrisdevv&layout=compact)](https://github.com/harrisdevv/github-readme-stats)
-[![Commits](https://github-readme-stats.vercel.app/api?username=harrisdevv)](https://github.com/harrisdevv/github-readme-stats)
-
+<a href="https://harrisdevv.github.io/" alt="Tech Blog"> 📝 My Digital Home </a>
 
 ## 📫 How to reach me
 
